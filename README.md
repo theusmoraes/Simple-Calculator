@@ -3,7 +3,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Projeto Simples de calculadora feito com react
 
 Para Executar o projeto:
+
 1- ### `yarn install`
+
 2- ### `yarn start`
 
 obs. Projeto inspirado em: https://github.com/ahfarmer/calculator
